@@ -2,9 +2,9 @@
 # BASE_DIR = os.path.dirname(os.path.abspath(__file__))#存放c.py所在的绝对路径
 
 # sys.path.append(BASE_DIR)
-
-# from subtitleMaker import subtitle_maker
-import subtitleMaker.subtitle_maker as subtitle_maker
+# sys.path.append("./subtitleMaker")
+from subtitleMaker import subtitle_maker
+# import subtitleMaker.subtitle_maker as subtitle_maker
 
 if __name__=="__main__":
 

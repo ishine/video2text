@@ -30,3 +30,4 @@ echo $PYTHONPATH
 
 export PATH=$PATH:/home/chenchangshu/video2text/
 export PATH=$PATH:/home/chenchangshu/video2text/subtitleMaker
+
