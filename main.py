@@ -1,4 +1,4 @@
-from subtitle_maker import subtitle_maker
+from subtitleMaker import subtitle_maker
 
 if __name__=="__main__":
 

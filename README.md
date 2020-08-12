@@ -18,3 +18,12 @@ conda activate spleeter
 cp -r ./pretrained_models/ ../video2text/spleeter/
 1、放个视频跟音频过去
 2、测试视频剥离，弄出音频
+
+
+export PYTHONPATH=$PYTHONPATH:/home/chenchangshu/video2text
+export PATH=/home/chenchangshu/video2text/:$PATH
+sudo vim /etc/profile 
+export PATH="/home/chenchangshu/video2text/:$PATH"
+
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/
+echo $PYTHONPATH
