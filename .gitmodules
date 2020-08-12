@@ -4,3 +4,6 @@
 [submodule "subtitle-maker"]
 	path = subtitle-maker
 	url = git@github.com:redtreeai/subtitle-maker.git
+[submodule "aukit"]
+	path = aukit
+	url = git@github.com:X-CCS/aukit.git
