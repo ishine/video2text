@@ -1,0 +1,3 @@
+[submodule "spleeter"]
+	path = spleeter
+	url = git@github.com:X-CCS/spleeter.git
