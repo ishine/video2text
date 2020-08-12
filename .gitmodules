@@ -1,3 +1,6 @@
 [submodule "spleeter"]
 	path = spleeter
 	url = git@github.com:X-CCS/spleeter.git
+[submodule "subtitle-maker"]
+	path = subtitle-maker
+	url = git@github.com:redtreeai/subtitle-maker.git
